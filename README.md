@@ -1,3 +1,3 @@
 # Undergrad-Classwork
 
-A concatenation of my own work and all resources I have from my undergrad CSE spec. AI and ML degree at VIT from 2021-2025 
+Some of my work and resources from my undergrad CSE AI&ML degree at VIT from 2021-2025 
